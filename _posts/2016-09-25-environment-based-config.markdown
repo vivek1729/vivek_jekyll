@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Environment based configurations"
-date:   2016-09-25 13:42:44 +0530
-categories: jekyll update
 ---
 Now that we have a [Todo]({% post_url 2016-09-25-todo %}) List of sorts. Let's start with having *sane* defaults for different environments namely development and production. From [this article](http://www.csinaction.com/2015/02/07/environments-in-jekyll-aka-jekyll_env/), it seems that the environment variable is exposed as **`JEKYLL_ENV`** which can be set to different values in layouts or includes. An example from the same source:
 

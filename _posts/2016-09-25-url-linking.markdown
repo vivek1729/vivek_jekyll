@@ -1,8 +1,5 @@
 ---
-layout: post
-title:  "URL linking"
-date:   2016-09-25 13:42:44 +0530
-categories: jekyll update
+title:  "url linking"
 ---
 Immediately after setting up sane config defaults for [different environments]({% post_url 2016-09-25-environment-based-config %}), I was faced with another mind boggling quirks of Jekyll: **Crazy url linking and relative paths**. I was beginning to believe that the system has a mind of its own and just breaks no matter what changes I do in my `_config.yml`. So the problem was in these two lines:
 

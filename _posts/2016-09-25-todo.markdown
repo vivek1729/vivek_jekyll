@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Todo"
-date:   2016-09-25 12:42:44 +0530
-categories: jekyll update
 ---
 Yeah, now that I have jekyll running locally.
 

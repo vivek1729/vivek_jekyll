@@ -27,3 +27,14 @@ github_username:  vivek1729
 # Build settings
 markdown: kramdown
 theme: minima
+gems:
+  - jemoji
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/:title"
+      categories: "jekyll starter"

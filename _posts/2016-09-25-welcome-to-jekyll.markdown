@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Welcome to Jekyll"
-date:   2016-09-25 12:08:44 +0530
-categories: jekyll update
 ---
 Okay, so this is the `hello-world` of my Jekyll world.
 
