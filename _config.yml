@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: My Jekyll Blog Woho!
+email: sasuke.vivek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An awesome static site generator made to fit beautifully with
+  Github. I will be using this blog to learn how to use jekyll myself
+  and integrate it better with Github Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://vivek1729.github.io/vivek_jekyll/" # the base hostname & protocol for your site
+twitter_username: VivekPradhan10
+github_username:  vivek1729
 
 # Build settings
 markdown: kramdown

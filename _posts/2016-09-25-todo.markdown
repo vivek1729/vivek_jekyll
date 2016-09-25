@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Todo"
+date:   2016-09-25 12:42:44 +0530
+categories: jekyll update
+---
+Yeah, now that I have jekyll running locally.
+
+# I need to get the following things sorted (to have a decent workflow)
+
+- Find a decent sublime plugin for markdown preview and editing
+- Create a keyboard shortcut or better still, find another sublime plugin for creating new posts. I am obviously not gonna type in the front matter and save it in that format manually. :P
+- Speaking of ":P", find some emoji support for this blog.
+- The `url` param in `_config.yml` was conveniently left blank and the CSS,JS everything broke! They prefixed "example.com" to the generated stylesheets and I spent exactly 4 minutes contemplating why is the Minima theme so ugly. Well, it isn't. It's a decent starting point for me. Need to find a way to convenient have this `url` param set up to support both local development and deployment in my remote github repo.
+- Prettifying url generation scheme for the blog. 
